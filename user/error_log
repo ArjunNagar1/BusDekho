@@ -1,0 +1,8 @@
+[06-Nov-2021 11:49:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /mnt2/piyushsh/public_html/busdekhoapi/bus.php:19
+Stack trace:
+#0 {main}
+  thrown in /mnt2/piyushsh/public_html/busdekhoapi/bus.php on line 19
+[09-Nov-2021 17:19:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /mnt2/piyushsh/public_html/busdekhoapi/search.php:20
+Stack trace:
+#0 {main}
+  thrown in /mnt2/piyushsh/public_html/busdekhoapi/search.php on line 20
